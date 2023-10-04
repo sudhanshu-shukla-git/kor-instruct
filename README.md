@@ -1,7 +1,8 @@
 [![Unit Tests](https://github.com/eyurtsev/kor/actions/workflows/test.yml/badge.svg?branch=main&event=push)](https://github.com/eyurtsev/kor/actions/workflows/test.yml)
 [![Test Docs](https://github.com/eyurtsev/kor/actions/workflows/doc_test.yaml/badge.svg?branch=main&event=push)](https://github.com/eyurtsev/kor/actions/workflows/doc_test.yaml)
 
-# Kor
+## In Progress : Instruct Version for Kor
+# Kor-Instruct
 
 This is a half-baked prototype that "helps" you extract structured data from text using LLMs 🧩.
 
